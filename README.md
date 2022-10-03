@@ -1,11 +1,15 @@
-# Barao-1A-Pensamento-Computacional
-##projeto de um site em HTML e CSS
+# Barao-1A-PensamentoComputacional
+## Site em HTML e CSS
 
-###Colegio Estadual Barao do rio branco
-Disciplina de **Pensamento computacional**
+### Colégio Estadual Barão do Rio Branco 
+Disciplina de **Pensamento Computacional**
 
-___
+---
 
 Desenvolvimento de site nas linguagens HTML e CSS
 
-Estudante: *Davi Martins de Araujo* N°: *51*
+Estudante: *Teotonio José de Souza Junior* nº *45*
+
+
+Estudante: *Josicreide da Silva Sauro*     nº 54
+
